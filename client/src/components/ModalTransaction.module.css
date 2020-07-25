@@ -1,0 +1,28 @@
+.modalTitle {
+  margin: 0 0 30px 0;
+}
+.modalTitle span {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.formInputs {
+  border: 1px solid #bdbdbd;
+  border-radius: 4px;
+  margin-bottom: 0 !important;
+};
+
+.formButtons {
+  padding: 10px;
+}
+
+.formButtons button {
+  margin-left: 20px;
+}
+
+[type="radio"].radioRed:checked + span:after, 
+[type="radio"].radioRed.with-gap:checked + span:before,
+[type="radio"].radioRed.with-gap:checked + span:after {
+  border: 2px solid #ef5350 !important;
+  background-color: #ef5350 !important;
+}

@@ -1,0 +1,15 @@
+.datePicker {
+  display: flex; flex-direction: row; align-items: center; justify-content: center; margin: 10px;
+}
+
+.selectDate {
+  width: 150px;
+  margin: 0 10px;
+}
+
+.divFiltro {
+  margin: 30px 0;
+}
+.divFiltro>div {
+  margin: 10px 0;
+}
