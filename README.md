@@ -2,7 +2,7 @@
 
 Desafio final do bootcamp Desenvolvedor Full Stack do Instituto de Gestão e Tecnologia da Informação.
 
-![Screen Desafio Final Bootcamp IGTI](screen.png "Screen Desafio Final Bootcamp IGTI")
+![Screen Desafio Final Bootcamp IGTI](screen.PNG)
 
 ## Objetivo
 
