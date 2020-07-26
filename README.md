@@ -2,6 +2,8 @@
 
 Desafio final do bootcamp Desenvolvedor Full Stack do Instituto de Gestão e Tecnologia da Informação.
 
+![Screen Desafio Final Bootcamp IGTI](screen.png "Screen Desafio Final Bootcamp IGTI")
+
 ## Objetivo
 
 Exercitar os conteitos trabalhados nos módulos do bootcamp:
@@ -14,3 +16,8 @@ Exercitar os conteitos trabalhados nos módulos do bootcamp:
 ## Enunciado
 
 Criar uma aplicação web para **Controle Financeiro Pessoal** com MongoDB + Node.JS + React e implantação no Heroku.
+
+## Deploy
+
+Veja o aplicativo em execução no Heroku:
+### http://personalnerd-desafio-final.herokuapp.com
